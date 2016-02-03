@@ -1,0 +1,4 @@
+requests==1.2.3
+-e git+https://github.com/brunotikami/speedtest-cli.git#egg=speedtest
+-e git+git@github.com:kennethreitz/stathat.py.git@c34ede6d5c8e3c42bbc4894b355860c40967beb0#egg=stathat-dev
+
